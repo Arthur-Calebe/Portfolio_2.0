@@ -7,6 +7,7 @@ import { Projetos } from "./pages/Projetos"
 import { Skills } from "./pages/Skills"
 import { Contato } from "./pages/Contato"
 import { ScrollToTop } from "./components/ScrollToTop"
+import { Analytics } from '@vercel/analytics/react'
 
 export const App = () => {
   return (
@@ -21,6 +22,7 @@ export const App = () => {
       </section>
       <Footer />
       <ScrollToTop />
+      <Analytics />
     </main>
   )
 }
