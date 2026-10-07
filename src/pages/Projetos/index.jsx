@@ -23,7 +23,7 @@ export const Projetos = () => {
       tipo: 'JavaScript e React',
       descricao:
         'Atuei, junto ao meu time, na refatoração completa do site da Associação dos Conselheiros do Brasil, modernizando a interface e melhorando a estrutura da aplicação..',
-      link: 'https://github.com/Arthur-Calebe/LocadoraJavaPOO',
+      link: 'https://github.com/luiz-divino/grupo3_PFE.2026-1.react',
       tag: 'React',
     }
   ]
